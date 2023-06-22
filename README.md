@@ -1,4 +1,4 @@
 # mdia4590_wk07_ex
 
-##subheading
+## subheading
 Example project for lab
